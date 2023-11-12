@@ -1,4 +1,4 @@
-##### Hi there, I'm Mohamed! 👋
+<h1>Hi there, I'm Mohamed! 👋</h1>
 
 I am a transfer student at UC Berkeley coming from Norco College located in Riverside
 <!--
