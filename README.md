@@ -1,6 +1,6 @@
-### Hi there, I'm Mohamed! 👋
+##### Hi there, I'm Mohamed! 👋
 
-asdlalsdas
+I am a transfer student at UC Berkeley coming from Norco College located in Riverside
 <!--
 **mohamedzeidan2021/mohamedzeidan2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
