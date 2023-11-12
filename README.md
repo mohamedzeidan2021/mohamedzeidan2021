@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Zeidan</h1>
+<h1 align="center">👋 Hi, I'm Mohamed Zeidan</h1>
 <h3 align="center">A Software Engineer from Berkeley, California</h3>
 
 <h2>🚀 About Me</h2>
