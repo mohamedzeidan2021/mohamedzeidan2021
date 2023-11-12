@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **zeidan4mo@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<a href="https://www.linkedin.com/in/mohamed-zeidan-460927212/">LinkedIn</a></h3>
 <p align="left">
 </p>
 
