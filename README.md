@@ -4,7 +4,7 @@
 <h2>🚀 About Me</h2>
 I started my coding journey at Norco College where I took C++ classes and worked as a tutor for mathematics and computer science! I am eager to leverage my skills and continue my journey as a software engineering intern. Check out some of my projects!
 
-- 🔭 I’m currently working on [Better-Together](https://github.com/mohamedzeidan2021/Better-Together)
+- 🔭 I’m currently working on [Emoxi](https://github.com/mohamedzeidan2021/Emoxi-Tweet)
 
 - 🌱 I’m currently learning **Django, React Native, React, and data structures!**
 
